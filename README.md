@@ -1,3 +1,0 @@
-- Hi, I’m @Zmisys
-- I’m interested in ... Linux, Net, ML, LLM's, 
-- I’m currently learning ... Cloud Enviroments
